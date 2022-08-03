@@ -1,0 +1,15 @@
+C:\Users\122589\source\repos\UnsafeConsole\UnsafeConsole\bin\Debug\net6.0\UnsafeConsole.exe
+C:\Users\122589\source\repos\UnsafeConsole\UnsafeConsole\bin\Debug\net6.0\UnsafeConsole.deps.json
+C:\Users\122589\source\repos\UnsafeConsole\UnsafeConsole\bin\Debug\net6.0\UnsafeConsole.runtimeconfig.json
+C:\Users\122589\source\repos\UnsafeConsole\UnsafeConsole\bin\Debug\net6.0\UnsafeConsole.dll
+C:\Users\122589\source\repos\UnsafeConsole\UnsafeConsole\bin\Debug\net6.0\UnsafeConsole.pdb
+C:\Users\122589\source\repos\UnsafeConsole\UnsafeConsole\obj\Debug\net6.0\UnsafeConsole.csproj.AssemblyReference.cache
+C:\Users\122589\source\repos\UnsafeConsole\UnsafeConsole\obj\Debug\net6.0\UnsafeConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\122589\source\repos\UnsafeConsole\UnsafeConsole\obj\Debug\net6.0\UnsafeConsole.AssemblyInfoInputs.cache
+C:\Users\122589\source\repos\UnsafeConsole\UnsafeConsole\obj\Debug\net6.0\UnsafeConsole.AssemblyInfo.cs
+C:\Users\122589\source\repos\UnsafeConsole\UnsafeConsole\obj\Debug\net6.0\UnsafeConsole.csproj.CoreCompileInputs.cache
+C:\Users\122589\source\repos\UnsafeConsole\UnsafeConsole\obj\Debug\net6.0\UnsafeConsole.dll
+C:\Users\122589\source\repos\UnsafeConsole\UnsafeConsole\obj\Debug\net6.0\refint\UnsafeConsole.dll
+C:\Users\122589\source\repos\UnsafeConsole\UnsafeConsole\obj\Debug\net6.0\UnsafeConsole.pdb
+C:\Users\122589\source\repos\UnsafeConsole\UnsafeConsole\obj\Debug\net6.0\UnsafeConsole.genruntimeconfig.cache
+C:\Users\122589\source\repos\UnsafeConsole\UnsafeConsole\obj\Debug\net6.0\ref\UnsafeConsole.dll
